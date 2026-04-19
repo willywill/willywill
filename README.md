@@ -1,9 +1,46 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&size=24&duration=3000&color=000000&lines=Hi+there!+%F0%9F%91%8B;Let's+connect+%F0%9F%94%8C;Check+out+my+recent+projects!+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Follow+me!+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&size=24&duration=3000&color=000000&lines=Hi+there!+👋;Staff+Engineer+%7C+Web+%26+Graphics;I+make+things+that+render+fast+⚡;Let's+build+something+interesting)](https://git.io/typing-svg)
 
-- 📋 I’m currently working on cleaning up my Github 😅
-- 🌱 I’m currently learning Machine Learning, Go, Rust & Svelte
-- 👯 I’m looking to collaborate on cool web development projects
-- 📫 How to reach me: me@williamgermany.com
-- 😄 Pronouns: He / Him
+## 👋 Hey, I'm Will
 
-[![Contact me on Codementor](https://www.codementor.io/m-badges/williamgermany/im-a-cm-b.svg)](https://www.codementor.io/@williamgermany?refer=badge)
+Staff software engineer focused on web technologies and computer graphics.
+I like working on things that push the limits of what was previously thought possible. My favorite areas as of late: GPU pipelines, rendering systems,
+and the weird intersection of code and art.
+
+---
+
+### 🔭 What I'm into right now
+
+- 🌫️ Atmospheric & world rendering (procedural erosion, Fourier transforms, celestial body math, sub surface scattering, global illumination, etc.)
+- 🧠 Machine learning/AI & computer vision (pose detection, open CV, transformer models, linear algebra, simulations)
+- 🎨 Code as art — generative shaders, livecoding, music-as-code
+- 🔒 Low-level systems, CPU/GPU architecture, databases, performance profiling
+- 🎮 Game modding & graphics hacking
+
+---
+
+### 🛠️ Tech I reach for
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript&logoColor=3178C6)
+![Go](https://img.shields.io/badge/-Go-white?style=flat-square&logo=go&logoColor=00ADD8)
+![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python&logoColor=3776AB)
+![WebGL](https://img.shields.io/badge/-WebGL-white?style=flat-square&logo=webgl&logoColor=990000)
+![WebGPU](https://img.shields.io/badge/-WebGPU-white?style=flat-square&logoColor=333333)
+![C#](https://img.shields.io/badge/-C%23-white?style=flat-square&logo=csharp&logoColor=239120)
+![GLSL](https://img.shields.io/badge/-GLSL-white?style=flat-square&logoColor=333333)
+![HLSL](https://img.shields.io/badge/-HLSL-white?style=flat-square&logoColor=333333)
+![Rust](https://img.shields.io/badge/-Rust-white?style=flat-square&logo=rust&logoColor=000000)
+
+---
+
+### 📊 GitHub stats
+
+![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=willywill&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willywill&layout=compact&theme=dark)
+
+---
+
+### 📫 Reach me
+
+📧 me@williamgermany.com
+🌐 williamgermany.com
+😄 he/him
