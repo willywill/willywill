@@ -40,5 +40,5 @@ and the weird intersection of code and art.
 ### 📫 Reach me
 
 📧 me@williamgermany.com
-🌐 williamgermany.com
-😄 he/him
+
+🌐 [williamgermany.com](https://williamgermany.com)
