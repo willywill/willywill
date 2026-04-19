@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&size=24&duration=3000&color=000000&lines=Hi+there!+👋;Staff+Engineer+%7C+Web+%26+Graphics;I+make+things+that+render+fast+⚡;Let's+build+something+interesting)](https://git.io/typing-svg)
-
 ## 👋 Hey, I'm Will
 
 Staff software engineer focused on web technologies and computer graphics.
@@ -32,7 +30,7 @@ and the weird intersection of code and art.
 
 ---
 
-### 📊 GitHub stats
+### 📊 GitHub Stats
 
 ![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=willywill&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willywill&layout=compact&theme=dark)
